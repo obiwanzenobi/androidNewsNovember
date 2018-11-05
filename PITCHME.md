@@ -24,6 +24,7 @@ formatString(pwd.text)
 String pwd = Password.constructor-impl("tajne");
 this.formatString(pwd);
 ```
+@[7-8](Systrace dla danego pakietu)
 ---
 
 ## Architecture components
