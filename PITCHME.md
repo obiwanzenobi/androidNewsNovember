@@ -20,11 +20,10 @@ inline class Password(val text: String)
 val pwd = Password("tajne")
 formatString(pwd.text)
 
-// decompiled
 String pwd = Password.constructor-impl("tajne");
 this.formatString(pwd);
 ```
-@[7-8](Systrace dla danego pakietu)
+@[6-7](Zdekompilowany kod wynikowy)
 ---
 
 ## Architecture components
