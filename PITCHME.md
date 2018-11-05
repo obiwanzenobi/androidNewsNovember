@@ -42,4 +42,4 @@ this.formatString(pwd);
 - Nowy AppBarConfiguration umożliwiający połączenie navigation z Toolbar, CollapsingToolbar i ActionBar |
 - Można podawać argumenty dla początkowego fragmentu |
 - Możliwość wykorzystania nowych znaków specjalnych w schemacie deeplinka |
-- Wsparcie dla Shared element transition
+- Wsparcie dla Shared element transition |
