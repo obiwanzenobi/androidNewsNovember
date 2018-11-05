@@ -8,7 +8,7 @@
 - Couritnes |
 - @JvmStatic i @JvmField w interfejsach |
 - Annotation class może zawierać deklaracje klas |
-- ifEmpty() i ifBlank() - nowe extensions dla kolekcji |
+- random(), ifEmpty() i ifBlank() - nowe extensions dla kolekcji |
 https://kotlinlang.org/docs/reference/whatsnew13.html
 
 +++
@@ -23,7 +23,7 @@ formatString(pwd.text)
 // decompiled
 String pwd = Password.constructor-impl("tajne");
 this.formatString(pwd);
-
+```
 ---
 
 ## Architecture components
